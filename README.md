@@ -1,4 +1,4 @@
-## 👋 Opaa, Me Chamo Anselmo e sou apaixonado por Progamação
+## 👋 Opaa, Me chamo Anselmo e sou apaixonado por progamação
 
 <div align="center">
   <a href="https://github.com/Anselmo-Dias">
