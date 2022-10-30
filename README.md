@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Anselmo tenho 18 anos sou <strong>Desenvolvedor web</strong>.<br>
+  Me chamo Anselmo, tenho 18 anos e sou <strong>Desenvolvedor web</strong>.<br>
   No momento estou aprofundando meus conhecimentos em programação
 </p>
 
