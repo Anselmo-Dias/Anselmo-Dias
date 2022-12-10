@@ -22,24 +22,3 @@ Web developer
 <p>I'm passionate about programming, more specifically <strong>React</strong></p>
 
 <p align="left"> "Pleasure in work makes work better. A job comes out much better when there is pleasure in the process. By doing things grudgingly, even if we are responsible, the probability of a botched result becomes much greater."</p>
-
-<br/>
-
-## 👨🏾‍💻 Information about my GitHub account
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anselmo-Dias&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  <br/>
-  
-  
-  ##
-  
-<div> 
-  
- 
-  ![Snake animation](https://github.com/Anselmo-Dias/Anselmo-Dias/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
