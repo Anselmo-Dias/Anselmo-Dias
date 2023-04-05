@@ -18,7 +18,7 @@ Web developer
   <img src="https://img.shields.io/badge/-Instagram-0288d1?style=flat-square&labelColor=0288d1&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<p> programming enthusiast & all kind of technology </p>
-<p>I'm passionate about programming, more specifically <strong>React</strong></p>
+<p> Amante de todo tipo de tecnologia </p>
+<p>Sou apaixonado por programação, mais especificamente <strong>React</strong></p>
 
-<p align="left"> "Pleasure in work makes work better. A job comes out much better when there is pleasure in the process. By doing things grudgingly, even if we are responsible, the probability of a botched result becomes much greater."</p>
+<p align="left"> "O prazer no trabalho torna o trabalho melhor. Um trabalho sai muito melhor quando há prazer no processo. Ao fazer as coisas de má vontade, mesmo que sejamos responsáveis, a probabilidade de um resultado ruim torna-se muito maior."</p>
