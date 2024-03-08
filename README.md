@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Web developer
+Web developer 
 
 <p align="left">
   <a href="mailto:anselmodias1617@gmail.com" alt="Gmail">
