@@ -1,7 +1,8 @@
 <h1>Anselmo Dias</h1>
-<img src="https://github.com/user-attachments/assets/7f9f09c8-8ff1-458f-90be-04d77e664767" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/user-attachments/assets/e0955d6f-345a-44c8-bedb-4a6c55b9e042" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Web developer 
+Web developer
+
 
 <p align="left">
   <a href="mailto:anselmodias1617@gmail.com" alt="Gmail">
