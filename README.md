@@ -1,6 +1,5 @@
 <h1>Anselmo Dias</h1>
-
-<img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/user-attachments/assets/7f9f09c8-8ff1-458f-90be-04d77e664767" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 Web developer 
 
@@ -19,6 +18,6 @@ Web developer
 </p>  
 
 <p> Amante de todo tipo de tecnologia </p>
-<p>Sou apaixonado por programação, mais especificamente <strong>React</strong></p>
+<p>Sou apaixonado por programação, mais especificamente <strong>JavaScript</strong></p>
 
 <p align="left"> "O prazer no trabalho torna o trabalho melhor. Um trabalho sai muito melhor quando há prazer no processo. Ao fazer as coisas de má vontade, mesmo que sejamos responsáveis, a probabilidade de um resultado ruim torna-se muito maior."</p>
