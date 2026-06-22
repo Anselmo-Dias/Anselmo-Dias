@@ -12,9 +12,6 @@ Web developer
 
   <a href="https://api.whatsapp.com/send?phone=5579981057602&" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-341054?style=flat-square&labelColor=341054&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.instagram.com/_anselmo.dev/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-341054?style=flat-square&labelColor=341054&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
 <p> Amante de todo tipo de tecnologia </p>
