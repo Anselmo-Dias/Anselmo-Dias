@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,python,tailwind,postgres,docker,nginx,vercel,git&theme=dark&perline=13" alt="Stack"/>
 </p>
 
-### `▸ runtime.log`
+### `runtime.log`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anselmo-Dias/Anselmo-Dias/output/snake.svg" width="100%" alt="Snake comendo o gráfico de contribuições"/>
