@@ -11,30 +11,15 @@
 
 <br/>
 
-### `▸ system_prompt`
+### `system_prompt`
 
 > *"O prazer no trabalho torna o trabalho melhor. Um trabalho sai muito melhor quando há prazer no processo. Ao fazer as coisas de má vontade, mesmo que sejamos responsáveis, a probabilidade de um resultado ruim torna-se muito maior."*
-
-### `▸ agent.config`
-
-```ts
-const anselmo: Agent = {
-  role:     ["Founder @ Scrollab", "Full-stack & Mobile Engineer"],
-  base:     "Aracaju · SE · Brasil",
-  stack:    ["TypeScript", "React", "Angular", "React Native/Expo", "Node/Fastify", "Python"],
-  building: ["agentes de IA", "SaaS multi-loja", "apps mobile", "design systems"],
-  offline:  ["jiu-jitsu", "muay thai", "capoeira"],
-  loop:     () => ship(build(think())),
-};
-```
-
-### `▸ telemetry`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anselmo-Dias/Anselmo-Dias/output/commit-pulse.svg" width="100%" alt="Commit pulse — frequência de contribuições nos últimos 12 meses"/>
 </p>
 
-### `▸ toolchain`
+### `toolchain`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,python,tailwind,postgres,docker,nginx,vercel,git&theme=dark&perline=13" alt="Stack"/>
@@ -44,8 +29,4 @@ const anselmo: Agent = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anselmo-Dias/Anselmo-Dias/output/snake.svg" width="100%" alt="Snake comendo o gráfico de contribuições"/>
-</p>
-
-<p align="center">
-  <sub><code>agent://anselmo</code> · atualizado automaticamente a cada 6h via GitHub Actions</sub>
 </p>
